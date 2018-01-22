@@ -1,6 +1,6 @@
 To run the application:
 
-`java -jar {path-to-file}/patchserver-1.1.jar`
+`java -jar {path-to-file}/patchserver-1.0.jar`
 
 The application will ask you to point to a folder directory where the JSON files live, something like:
 
